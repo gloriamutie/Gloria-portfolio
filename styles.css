@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: rosybrown;
+}
+h2{
+    text-align: center;
+    color: rosybrown;
+}
+
+img{
+    float: right;
+}
+.column{
+    float: left;
+    width: fit-content;
+}
+.text-box{
+    border: 5px solid rgb(19, 3, 3);
+    background-color: slategray;
+    margin: 100;
+    padding-left: 2px;
+}
+body{
+    font-family: sans-serif;
+}
