@@ -8,7 +8,8 @@ h2{
 }
 
 img{
-    float: right;
+    float: left;
+    border: 2px ;
 }
 .column{
     float: left;
@@ -20,6 +21,21 @@ img{
     margin: 100;
     padding-left: 2px;
 }
+
+.text-box h5{
+    font-size: 20px;
+}
+
 body{
     font-family: sans-serif;
+}
+ul.a{
+    list-style-type: square;
+
+}
+ol.b{
+    list-style-type: lower-roman;
+}
+.lists{
+    clear: left;
 }
